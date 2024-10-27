@@ -1,0 +1,1001 @@
+Customer_ID,Age,Loan_Type,Loan_Amount,Repayment_Status,Review,Sentiment_Score,Sentiment_Label
+1,56,Auto,43001,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+2,69,Auto,14516,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+3,46,Auto,7396,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+4,32,Business,23546,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+5,60,Personal,24129,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+6,25,Auto,6591,Paid,Great customer support and low-interest rates.,0.8,Positive
+7,38,Personal,16303,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+8,56,Business,35561,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+9,36,Home,11183,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+10,40,Auto,31572,Paid,Great customer support and low-interest rates.,0.8,Positive
+11,28,Personal,39080,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+12,28,Personal,25695,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+13,41,Auto,12314,Paid,Great customer support and low-interest rates.,0.8,Positive
+14,53,Home,24623,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+15,57,Home,7139,Paid,Great customer support and low-interest rates.,0.8,Positive
+16,41,Home,36290,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+17,20,Business,23088,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+18,39,Personal,44692,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+19,19,Personal,38130,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+20,41,Personal,37088,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+21,61,Business,31292,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+22,47,Personal,25670,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+23,55,Business,8738,Paid,Great customer support and low-interest rates.,0.8,Positive
+24,19,Home,7469,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+25,38,Auto,27534,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+26,50,Personal,14017,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+27,29,Personal,7808,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+28,39,Home,17713,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+29,61,Auto,45329,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+30,42,Business,7719,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+31,66,Auto,27890,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+32,44,Home,16700,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+33,59,Home,41509,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+34,45,Auto,47534,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+35,33,Business,41766,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+36,32,Business,31705,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+37,64,Personal,23787,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+38,68,Business,31588,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+39,61,Auto,31123,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+40,69,Home,38062,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+41,20,Personal,15177,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+42,54,Personal,26727,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+43,68,Home,35220,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+44,24,Business,14882,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+45,38,Home,6136,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+46,26,Business,39832,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+47,56,Home,36966,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+48,35,Auto,12009,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+49,21,Business,17987,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+50,42,Auto,42311,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+51,31,Personal,36575,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+52,67,Home,6007,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+53,26,Personal,10445,Paid,Great customer support and low-interest rates.,0.8,Positive
+54,43,Personal,15706,Paid,Great customer support and low-interest rates.,0.8,Positive
+55,19,Personal,49486,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+56,37,Personal,34257,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+57,45,Home,26736,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+58,64,Personal,47207,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+59,24,Home,18281,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+60,61,Home,6435,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+61,25,Auto,38339,Paid,Great customer support and low-interest rates.,0.8,Positive
+62,64,Business,40150,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+63,52,Business,30821,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+64,31,Home,31660,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+65,34,Auto,10084,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+66,53,Home,21661,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+67,67,Home,18507,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+68,57,Home,12059,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+69,21,Auto,23271,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+70,19,Business,12491,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+71,23,Auto,19859,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+72,59,Personal,13073,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+73,21,Auto,14077,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+74,46,Auto,25953,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+75,35,Auto,16383,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+76,43,Auto,7353,Paid,Great customer support and low-interest rates.,0.8,Positive
+77,61,Business,28821,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+78,51,Personal,42567,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+79,27,Business,29860,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+80,53,Business,26195,Paid,Great customer support and low-interest rates.,0.8,Positive
+81,31,Auto,16939,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+82,48,Home,30338,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+83,65,Home,26730,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+84,32,Business,26427,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+85,25,Business,40196,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+86,31,Auto,32083,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+87,40,Business,26510,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+88,57,Auto,49064,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+89,38,Home,12813,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+90,33,Home,36598,Paid,Great customer support and low-interest rates.,0.8,Positive
+91,62,Personal,32570,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+92,35,Home,32082,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+93,64,Business,34241,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+94,41,Home,35678,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+95,43,Auto,49569,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+96,42,Home,16745,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+97,62,Personal,31029,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+98,58,Home,18025,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+99,46,Auto,41124,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+100,32,Auto,19288,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+101,62,Business,28650,Paid,Great customer support and low-interest rates.,0.8,Positive
+102,18,Home,11540,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+103,42,Auto,37232,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+104,24,Personal,21422,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+105,26,Business,8342,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+106,41,Personal,46846,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+107,18,Home,40612,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+108,61,Home,15396,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+109,25,Home,22482,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+110,41,Business,28411,Paid,Great customer support and low-interest rates.,0.8,Positive
+111,28,Auto,18261,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+112,68,Business,8093,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+113,34,Personal,16722,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+114,25,Business,27042,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+115,52,Personal,49413,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+116,52,Business,33087,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+117,50,Auto,37347,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+118,22,Personal,38756,Paid,Great customer support and low-interest rates.,0.8,Positive
+119,59,Home,44214,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+120,56,Home,21335,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+121,58,Business,33602,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+122,45,Home,39450,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+123,24,Personal,37196,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+124,26,Home,10626,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+125,25,Auto,12424,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+126,29,Auto,17857,Paid,Great customer support and low-interest rates.,0.8,Positive
+127,51,Business,49923,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+128,50,Personal,24982,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+129,65,Auto,16425,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+130,40,Auto,6980,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+131,41,Personal,31431,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+132,54,Home,24440,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+133,52,Home,46752,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+134,61,Business,22175,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+135,57,Home,31385,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+136,39,Personal,43158,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+137,44,Auto,28019,Defaulted,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+138,52,Home,23639,Paid,Great customer support and low-interest rates.,0.8,Positive
+139,18,Business,24994,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+140,52,Home,39375,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+141,54,Personal,26563,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+142,64,Business,44341,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+143,31,Home,10776,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+144,20,Business,41444,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+145,18,Personal,8380,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+146,22,Auto,13711,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+147,43,Personal,13782,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+148,31,Personal,22434,Paid,Great customer support and low-interest rates.,0.8,Positive
+149,56,Personal,25017,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+150,44,Personal,35707,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+151,26,Auto,44110,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+152,32,Auto,22343,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+153,32,Business,43827,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+154,43,Home,46652,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+155,59,Auto,10655,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+156,30,Auto,49859,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+157,68,Home,20251,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+158,49,Auto,5526,Paid,Great customer support and low-interest rates.,0.8,Positive
+159,56,Personal,8224,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+160,66,Personal,16536,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+161,69,Home,33541,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+162,49,Business,18547,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+163,21,Business,39531,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+164,47,Home,13712,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+165,54,Home,43565,Paid,Great customer support and low-interest rates.,0.8,Positive
+166,40,Personal,14208,Paid,Great customer support and low-interest rates.,0.8,Positive
+167,56,Business,10109,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+168,62,Auto,40201,Paid,Great customer support and low-interest rates.,0.8,Positive
+169,32,Personal,21967,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+170,60,Home,34759,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+171,46,Business,25172,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+172,53,Auto,41935,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+173,30,Auto,31589,Defaulted,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+174,49,Personal,35015,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+175,24,Business,34009,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+176,68,Business,22773,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+177,39,Home,46125,Paid,Great customer support and low-interest rates.,0.8,Positive
+178,45,Business,31143,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+179,19,Business,11154,Paid,Great customer support and low-interest rates.,0.8,Positive
+180,59,Personal,26804,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+181,62,Business,46688,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+182,23,Auto,25581,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+183,45,Personal,35087,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+184,45,Personal,37981,Paid,Great customer support and low-interest rates.,0.8,Positive
+185,61,Home,8762,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+186,61,Business,14768,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+187,37,Home,48408,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+188,47,Auto,44499,Paid,Great customer support and low-interest rates.,0.8,Positive
+189,28,Personal,43559,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+190,45,Personal,13783,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+191,42,Personal,34781,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+192,56,Auto,35811,Paid,Great customer support and low-interest rates.,0.8,Positive
+193,50,Auto,40488,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+194,18,Home,13905,Defaulted,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+195,44,Home,14127,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+196,69,Home,27431,Paid,Great customer support and low-interest rates.,0.8,Positive
+197,30,Business,11368,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+198,58,Personal,32424,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+199,20,Personal,23333,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+200,56,Home,28116,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+201,23,Personal,48201,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+202,25,Home,20525,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+203,44,Business,28398,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+204,26,Business,37857,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+205,54,Auto,15361,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+206,50,Business,21369,Paid,Great customer support and low-interest rates.,0.8,Positive
+207,68,Home,8041,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+208,59,Business,5105,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+209,61,Auto,14078,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+210,41,Personal,30003,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+211,32,Home,11090,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+212,49,Personal,43850,Paid,Great customer support and low-interest rates.,0.8,Positive
+213,49,Auto,6925,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+214,41,Auto,23440,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+215,58,Auto,44685,Paid,Great customer support and low-interest rates.,0.8,Positive
+216,69,Personal,31015,Paid,Great customer support and low-interest rates.,0.8,Positive
+217,66,Personal,38320,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+218,66,Personal,30291,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+219,69,Personal,41679,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+220,29,Auto,31289,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+221,56,Auto,8389,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+222,19,Home,30683,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+223,20,Home,18629,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+224,66,Personal,29826,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+225,54,Business,40198,Paid,Great customer support and low-interest rates.,0.8,Positive
+226,66,Business,31630,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+227,34,Auto,38226,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+228,66,Auto,37975,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+229,19,Auto,5899,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+230,19,Home,16653,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+231,45,Home,32961,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+232,40,Auto,21405,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+233,54,Auto,13601,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+234,49,Auto,38662,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+235,50,Business,38282,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+236,18,Home,26288,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+237,36,Business,34545,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+238,19,Business,41877,Paid,Great customer support and low-interest rates.,0.8,Positive
+239,61,Auto,20313,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+240,43,Auto,20349,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+241,49,Personal,12179,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+242,23,Personal,15326,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+243,49,Business,49555,Paid,Great customer support and low-interest rates.,0.8,Positive
+244,21,Home,6560,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+245,28,Auto,18612,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+246,34,Auto,22650,Paid,Great customer support and low-interest rates.,0.8,Positive
+247,55,Business,31745,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+248,41,Personal,36890,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+249,22,Home,25022,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+250,69,Personal,9780,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+251,51,Personal,23311,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+252,23,Personal,33380,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+253,39,Personal,49662,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+254,28,Auto,7356,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+255,65,Auto,9790,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+256,33,Personal,31911,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+257,50,Home,29363,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+258,26,Business,25049,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+259,23,Home,15181,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+260,33,Home,44825,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+261,46,Home,21082,Paid,Great customer support and low-interest rates.,0.8,Positive
+262,20,Personal,5661,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+263,37,Auto,42412,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+264,53,Home,7920,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+265,36,Personal,30658,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+266,43,Home,19025,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+267,20,Home,13946,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+268,36,Personal,33706,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+269,37,Auto,44004,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+270,49,Auto,21309,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+271,24,Business,38120,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+272,69,Personal,35027,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+273,58,Business,12005,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+274,50,Business,5956,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+275,57,Business,39839,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+276,56,Auto,13595,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+277,35,Personal,17803,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+278,57,Business,30963,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+279,18,Personal,41221,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+280,28,Personal,44443,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+281,45,Auto,38723,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+282,42,Business,44063,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+283,67,Business,20282,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+284,40,Personal,9703,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+285,48,Home,11563,Defaulted,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+286,47,Auto,30849,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+287,59,Auto,36860,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+288,52,Auto,36585,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+289,24,Auto,27015,Paid,Great customer support and low-interest rates.,0.8,Positive
+290,33,Business,17003,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+291,43,Business,48585,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+292,65,Home,31958,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+293,69,Auto,31017,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+294,66,Auto,16171,Paid,Great customer support and low-interest rates.,0.8,Positive
+295,19,Personal,17201,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+296,18,Business,34426,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+297,65,Auto,22778,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+298,29,Home,47229,Paid,Great customer support and low-interest rates.,0.8,Positive
+299,22,Home,26116,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+300,54,Business,38297,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+301,49,Home,24342,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+302,26,Home,32490,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+303,58,Business,24975,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+304,52,Auto,31723,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+305,36,Auto,28279,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+306,65,Home,17765,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+307,33,Home,16561,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+308,20,Auto,46899,Paid,Great customer support and low-interest rates.,0.8,Positive
+309,37,Business,5525,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+310,41,Home,27861,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+311,50,Personal,38142,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+312,41,Business,31916,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+313,69,Home,49965,Paid,Great customer support and low-interest rates.,0.8,Positive
+314,28,Home,9648,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+315,66,Personal,40133,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+316,25,Personal,35523,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+317,53,Auto,34052,Defaulted,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+318,55,Business,39414,Paid,Great customer support and low-interest rates.,0.8,Positive
+319,57,Business,37781,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+320,37,Auto,9599,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+321,52,Business,40046,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+322,65,Business,40923,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+323,42,Business,46089,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+324,52,Business,8814,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+325,42,Business,40984,Defaulted,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+326,46,Personal,31616,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+327,35,Business,7113,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+328,63,Personal,48006,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+329,35,Business,18760,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+330,19,Auto,26927,Paid,Great customer support and low-interest rates.,0.8,Positive
+331,52,Home,25939,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+332,33,Personal,37419,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+333,58,Business,17588,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+334,53,Auto,41142,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+335,50,Home,44198,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+336,21,Personal,49738,Paid,Great customer support and low-interest rates.,0.8,Positive
+337,50,Home,38397,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+338,31,Auto,21653,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+339,38,Personal,15831,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+340,65,Home,10724,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+341,37,Business,16083,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+342,25,Personal,24816,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+343,24,Home,47240,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+344,20,Auto,11276,Paid,Great customer support and low-interest rates.,0.8,Positive
+345,34,Auto,43663,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+346,50,Personal,18994,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+347,65,Home,28499,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+348,29,Personal,28040,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+349,68,Personal,48320,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+350,39,Home,21959,Paid,Great customer support and low-interest rates.,0.8,Positive
+351,39,Home,11099,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+352,63,Business,47267,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+353,47,Home,24576,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+354,55,Auto,40946,Paid,Great customer support and low-interest rates.,0.8,Positive
+355,55,Personal,11116,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+356,62,Personal,20563,Defaulted,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+357,68,Auto,31788,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+358,25,Home,31928,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+359,44,Auto,41336,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+360,44,Auto,14847,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+361,51,Business,31155,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+362,38,Auto,19135,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+363,47,Personal,22774,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+364,50,Auto,6742,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+365,45,Personal,23309,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+366,64,Personal,5619,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+367,50,Personal,22658,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+368,22,Home,39707,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+369,65,Business,25337,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+370,36,Personal,21001,Paid,Great customer support and low-interest rates.,0.8,Positive
+371,21,Personal,5968,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+372,52,Home,30892,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+373,66,Personal,30619,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+374,34,Auto,5281,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+375,61,Auto,32420,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+376,45,Business,20360,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+377,47,Personal,44030,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+378,46,Home,6058,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+379,63,Auto,25677,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+380,23,Home,15724,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+381,52,Home,33404,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+382,58,Auto,42946,Defaulted,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+383,54,Home,44748,Paid,Great customer support and low-interest rates.,0.8,Positive
+384,41,Auto,34856,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+385,46,Home,14200,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+386,66,Auto,38997,Paid,Great customer support and low-interest rates.,0.8,Positive
+387,63,Personal,30611,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+388,48,Business,46235,Paid,Great customer support and low-interest rates.,0.8,Positive
+389,52,Auto,40057,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+390,50,Auto,6239,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+391,69,Business,43138,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+392,38,Auto,5125,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+393,49,Auto,28857,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+394,40,Home,20398,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+395,50,Business,11638,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+396,20,Personal,11570,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+397,35,Auto,8249,Paid,Great customer support and low-interest rates.,0.8,Positive
+398,42,Business,14110,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+399,59,Home,45363,Paid,Great customer support and low-interest rates.,0.8,Positive
+400,48,Personal,18605,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+401,20,Business,17115,Paid,Great customer support and low-interest rates.,0.8,Positive
+402,57,Personal,44062,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+403,63,Personal,27911,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+404,41,Personal,43525,Paid,Great customer support and low-interest rates.,0.8,Positive
+405,67,Auto,37556,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+406,49,Auto,17595,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+407,64,Home,6969,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+408,39,Home,48753,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+409,40,Business,22275,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+410,19,Home,9470,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+411,44,Personal,15225,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+412,59,Personal,47324,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+413,19,Auto,46974,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+414,43,Personal,47759,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+415,34,Business,28196,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+416,57,Personal,45287,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+417,50,Personal,18669,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+418,26,Business,42380,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+419,60,Home,43006,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+420,65,Home,20577,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+421,56,Business,27473,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+422,46,Auto,33625,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+423,59,Personal,20504,Paid,Great customer support and low-interest rates.,0.8,Positive
+424,43,Business,29089,Defaulted,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+425,52,Personal,41487,Paid,Great customer support and low-interest rates.,0.8,Positive
+426,67,Auto,5302,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+427,42,Personal,36463,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+428,41,Business,49912,Paid,Great customer support and low-interest rates.,0.8,Positive
+429,30,Personal,34259,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+430,24,Home,47823,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+431,53,Auto,42208,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+432,62,Auto,35659,Paid,Great customer support and low-interest rates.,0.8,Positive
+433,37,Auto,40840,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+434,18,Business,36890,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+435,25,Auto,18598,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+436,63,Home,24508,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+437,33,Business,47287,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+438,31,Home,18380,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+439,29,Personal,31984,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+440,68,Personal,49633,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+441,40,Personal,13125,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+442,32,Personal,41059,Paid,Great customer support and low-interest rates.,0.8,Positive
+443,45,Home,9033,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+444,51,Business,42873,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+445,19,Business,22087,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+446,49,Auto,45901,Paid,Great customer support and low-interest rates.,0.8,Positive
+447,40,Home,10704,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+448,39,Personal,12848,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+449,68,Home,26592,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+450,42,Auto,11924,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+451,39,Auto,32208,Paid,Great customer support and low-interest rates.,0.8,Positive
+452,39,Home,24614,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+453,66,Home,5488,Paid,Great customer support and low-interest rates.,0.8,Positive
+454,69,Home,44882,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+455,59,Business,30923,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+456,23,Personal,40941,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+457,32,Home,34165,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+458,60,Home,6667,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+459,54,Home,31213,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+460,50,Auto,9114,Paid,Great customer support and low-interest rates.,0.8,Positive
+461,25,Auto,41321,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+462,61,Business,12761,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+463,61,Personal,36116,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+464,22,Business,38768,Defaulted,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+465,56,Personal,30426,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+466,21,Auto,22772,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+467,23,Auto,43218,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+468,62,Auto,8712,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+469,49,Business,6367,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+470,69,Home,45957,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+471,47,Home,46781,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+472,64,Auto,31200,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+473,52,Home,8726,Defaulted,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+474,57,Home,28616,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+475,69,Business,32723,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+476,33,Personal,42574,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+477,30,Auto,39958,Paid,Great customer support and low-interest rates.,0.8,Positive
+478,67,Auto,14108,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+479,59,Business,17178,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+480,47,Business,40643,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+481,36,Home,36324,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+482,34,Auto,43360,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+483,36,Personal,22824,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+484,45,Business,13927,Paid,Great customer support and low-interest rates.,0.8,Positive
+485,43,Personal,33144,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+486,54,Personal,36010,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+487,43,Auto,27443,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+488,40,Auto,19437,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+489,26,Business,49298,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+490,29,Auto,44778,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+491,18,Auto,16207,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+492,18,Auto,30537,Paid,Great customer support and low-interest rates.,0.8,Positive
+493,64,Personal,40757,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+494,51,Business,17040,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+495,49,Home,46986,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+496,65,Personal,27612,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+497,42,Auto,33441,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+498,57,Personal,11471,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+499,62,Auto,40631,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+500,18,Auto,48461,Paid,Great customer support and low-interest rates.,0.8,Positive
+501,33,Personal,31523,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+502,56,Business,36348,Defaulted,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+503,22,Auto,6177,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+504,39,Business,9760,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+505,46,Home,37779,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+506,20,Auto,26636,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+507,29,Business,21353,Paid,Great customer support and low-interest rates.,0.8,Positive
+508,43,Business,16556,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+509,33,Home,32598,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+510,68,Business,16563,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+511,54,Business,48790,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+512,39,Home,13234,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+513,46,Auto,30519,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+514,31,Business,31966,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+515,45,Business,21173,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+516,22,Business,31987,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+517,64,Personal,18178,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+518,66,Home,44338,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+519,47,Personal,29596,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+520,63,Home,38174,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+521,69,Auto,46974,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+522,22,Auto,9431,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+523,29,Business,32764,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+524,33,Home,26627,Paid,Great customer support and low-interest rates.,0.8,Positive
+525,43,Auto,44310,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+526,43,Home,13906,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+527,65,Auto,41914,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+528,38,Personal,49814,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+529,56,Auto,18076,Paid,Great customer support and low-interest rates.,0.8,Positive
+530,53,Personal,42650,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+531,50,Auto,11012,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+532,47,Business,12151,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+533,54,Personal,33211,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+534,40,Auto,32117,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+535,27,Business,41378,Defaulted,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+536,22,Personal,47652,Paid,Great customer support and low-interest rates.,0.8,Positive
+537,53,Business,11894,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+538,51,Home,18467,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+539,69,Home,36010,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+540,48,Personal,47641,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+541,27,Auto,17289,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+542,36,Personal,49976,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+543,49,Business,48596,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+544,18,Auto,28171,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+545,22,Home,39905,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+546,62,Auto,25829,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+547,21,Home,39054,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+548,33,Auto,49139,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+549,41,Auto,34734,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+550,33,Auto,12052,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+551,19,Business,8654,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+552,66,Business,28486,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+553,45,Personal,23743,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+554,49,Personal,29489,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+555,44,Home,13636,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+556,37,Business,11441,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+557,41,Home,29611,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+558,29,Personal,47435,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+559,67,Home,17149,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+560,52,Personal,39566,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+561,50,Business,47368,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+562,50,Auto,26675,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+563,68,Business,10495,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+564,60,Home,47668,Paid,Great customer support and low-interest rates.,0.8,Positive
+565,54,Home,18673,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+566,29,Business,16130,Paid,Great customer support and low-interest rates.,0.8,Positive
+567,20,Business,27668,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+568,18,Personal,20222,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+569,50,Home,28669,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+570,57,Home,39068,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+571,27,Business,28253,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+572,60,Auto,14435,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+573,61,Home,33552,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+574,46,Auto,42384,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+575,30,Business,21393,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+576,29,Business,15617,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+577,48,Personal,43520,Paid,Great customer support and low-interest rates.,0.8,Positive
+578,63,Home,14852,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+579,19,Auto,36401,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+580,68,Personal,11295,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+581,67,Home,40993,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+582,52,Personal,39084,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+583,40,Business,44575,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+584,34,Home,41451,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+585,43,Personal,12227,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+586,25,Personal,36910,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+587,46,Auto,41041,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+588,43,Personal,28384,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+589,27,Home,5145,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+590,43,Home,42778,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+591,51,Auto,21035,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+592,68,Home,8040,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+593,58,Business,47422,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+594,24,Home,31160,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+595,21,Home,22633,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+596,67,Personal,34344,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+597,62,Personal,22014,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+598,28,Home,19996,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+599,46,Auto,46621,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+600,53,Personal,16695,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+601,42,Auto,7852,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+602,38,Home,21014,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+603,53,Home,32042,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+604,27,Business,38755,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+605,54,Personal,45390,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+606,26,Home,28711,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+607,41,Business,31122,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+608,52,Personal,14160,Paid,Great customer support and low-interest rates.,0.8,Positive
+609,66,Home,32213,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+610,52,Home,44420,Paid,Great customer support and low-interest rates.,0.8,Positive
+611,65,Personal,12421,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+612,53,Personal,26400,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+613,35,Personal,38537,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+614,66,Home,22727,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+615,56,Home,9358,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+616,49,Business,33482,Paid,Great customer support and low-interest rates.,0.8,Positive
+617,41,Auto,37117,Defaulted,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+618,40,Personal,28164,Defaulted,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+619,49,Home,36910,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+620,54,Home,37496,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+621,29,Personal,49311,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+622,66,Auto,34371,Paid,Great customer support and low-interest rates.,0.8,Positive
+623,30,Personal,43467,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+624,40,Auto,22625,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+625,42,Home,38893,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+626,52,Auto,15793,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+627,58,Business,36007,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+628,47,Home,30766,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+629,34,Business,44532,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+630,66,Personal,17323,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+631,37,Personal,12843,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+632,65,Personal,19210,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+633,42,Auto,21456,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+634,39,Home,36367,Paid,Great customer support and low-interest rates.,0.8,Positive
+635,30,Personal,15106,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+636,36,Personal,42957,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+637,66,Home,7472,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+638,53,Personal,11704,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+639,29,Business,8713,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+640,58,Home,10051,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+641,36,Home,15756,Paid,Great customer support and low-interest rates.,0.8,Positive
+642,29,Home,7475,Paid,Great customer support and low-interest rates.,0.8,Positive
+643,26,Business,41378,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+644,24,Home,9255,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+645,45,Business,19484,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+646,31,Home,39503,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+647,48,Auto,13258,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+648,69,Personal,45747,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+649,36,Auto,40196,Defaulted,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+650,64,Personal,45194,Paid,Great customer support and low-interest rates.,0.8,Positive
+651,33,Business,13533,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+652,22,Auto,37581,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+653,52,Home,10249,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+654,29,Personal,24201,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+655,42,Personal,14686,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+656,69,Auto,37007,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+657,38,Business,5661,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+658,53,Auto,49843,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+659,40,Business,35137,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+660,33,Business,47828,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+661,56,Personal,15526,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+662,62,Auto,8374,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+663,59,Auto,30592,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+664,56,Business,33982,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+665,31,Auto,5207,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+666,48,Home,40433,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+667,22,Home,28197,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+668,52,Auto,38400,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+669,40,Auto,8083,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+670,46,Business,34328,Paid,Great customer support and low-interest rates.,0.8,Positive
+671,60,Home,47891,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+672,28,Home,25103,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+673,35,Personal,44891,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+674,64,Business,15754,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+675,29,Personal,39447,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+676,26,Home,20901,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+677,27,Business,38004,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+678,61,Auto,12446,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+679,34,Business,42211,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+680,55,Auto,34301,Paid,Great customer support and low-interest rates.,0.8,Positive
+681,24,Auto,31116,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+682,63,Business,46323,Paid,Great customer support and low-interest rates.,0.8,Positive
+683,30,Auto,23752,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+684,57,Personal,37376,Paid,Great customer support and low-interest rates.,0.8,Positive
+685,59,Home,21669,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+686,26,Auto,37916,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+687,67,Personal,18395,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+688,44,Auto,25421,Paid,Great customer support and low-interest rates.,0.8,Positive
+689,19,Home,31342,Defaulted,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+690,22,Personal,9895,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+691,46,Home,16023,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+692,54,Home,15699,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+693,55,Personal,14715,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+694,36,Personal,24169,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+695,25,Personal,21163,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+696,65,Business,10782,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+697,62,Personal,27641,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+698,18,Personal,23792,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+699,39,Personal,40585,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+700,69,Personal,35682,Paid,Great customer support and low-interest rates.,0.8,Positive
+701,34,Auto,23880,Defaulted,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+702,24,Business,43067,Paid,Great customer support and low-interest rates.,0.8,Positive
+703,42,Home,47685,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+704,62,Personal,23073,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+705,21,Auto,41035,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+706,53,Auto,42174,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+707,23,Auto,29837,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+708,48,Home,22826,Paid,Great customer support and low-interest rates.,0.8,Positive
+709,36,Personal,29981,Paid,Great customer support and low-interest rates.,0.8,Positive
+710,61,Business,15382,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+711,56,Business,9437,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+712,44,Auto,10435,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+713,27,Home,29819,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+714,43,Home,41875,Paid,Great customer support and low-interest rates.,0.8,Positive
+715,36,Home,36982,Paid,Great customer support and low-interest rates.,0.8,Positive
+716,56,Business,38328,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+717,20,Auto,17329,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+718,62,Personal,30169,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+719,30,Business,26932,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+720,67,Auto,39594,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+721,45,Auto,16421,Paid,Great customer support and low-interest rates.,0.8,Positive
+722,37,Personal,12629,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+723,45,Personal,13325,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+724,25,Personal,33495,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+725,58,Home,36750,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+726,56,Personal,34619,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+727,18,Auto,45461,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+728,20,Personal,13264,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+729,30,Auto,17686,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+730,45,Business,29226,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+731,66,Home,11721,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+732,42,Business,25609,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+733,50,Business,12373,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+734,55,Auto,43675,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+735,23,Business,33937,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+736,61,Auto,10656,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+737,62,Personal,13984,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+738,49,Personal,34984,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+739,62,Auto,13286,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+740,64,Personal,10901,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+741,38,Home,36552,Defaulted,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+742,33,Business,30709,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+743,38,Home,36055,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+744,28,Business,42685,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+745,54,Personal,13429,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+746,53,Home,19716,Paid,Great customer support and low-interest rates.,0.8,Positive
+747,52,Personal,16138,Paid,Great customer support and low-interest rates.,0.8,Positive
+748,36,Business,40298,Paid,Great customer support and low-interest rates.,0.8,Positive
+749,37,Auto,28429,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+750,35,Auto,10772,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+751,64,Home,40732,Paid,Great customer support and low-interest rates.,0.8,Positive
+752,58,Personal,44905,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+753,66,Personal,22347,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+754,31,Home,21920,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+755,32,Auto,36822,Paid,Great customer support and low-interest rates.,0.8,Positive
+756,48,Business,45108,Defaulted,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+757,18,Home,28563,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+758,20,Business,12967,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+759,33,Auto,16871,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+760,40,Personal,33763,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+761,28,Auto,16916,Paid,Great customer support and low-interest rates.,0.8,Positive
+762,29,Home,13734,Paid,Great customer support and low-interest rates.,0.8,Positive
+763,27,Personal,38613,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+764,49,Home,33179,Paid,Great customer support and low-interest rates.,0.8,Positive
+765,33,Home,40262,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+766,25,Auto,17677,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+767,55,Home,23268,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+768,29,Auto,17330,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+769,41,Personal,25733,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+770,45,Auto,42947,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+771,25,Personal,32286,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+772,45,Auto,11610,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+773,53,Business,11430,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+774,43,Business,44922,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+775,25,Home,18828,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+776,67,Auto,47913,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+777,45,Auto,36497,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+778,45,Personal,44256,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+779,54,Home,41618,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+780,58,Auto,31526,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+781,53,Home,35158,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+782,44,Business,30032,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+783,34,Auto,42846,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+784,26,Auto,49936,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+785,50,Home,34794,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+786,37,Auto,10448,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+787,30,Home,33861,Paid,Great customer support and low-interest rates.,0.8,Positive
+788,45,Auto,33141,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+789,65,Personal,14074,Paid,Great customer support and low-interest rates.,0.8,Positive
+790,46,Home,11406,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+791,30,Auto,36823,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+792,63,Business,28291,Paid,Great customer support and low-interest rates.,0.8,Positive
+793,52,Auto,46568,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+794,23,Business,37003,Defaulted,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+795,35,Business,39406,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+796,68,Personal,28312,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+797,22,Home,48108,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+798,64,Auto,6382,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+799,42,Personal,39171,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+800,19,Auto,46779,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+801,27,Business,8292,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+802,47,Home,46779,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+803,67,Auto,38187,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+804,62,Auto,17411,Paid,Great customer support and low-interest rates.,0.8,Positive
+805,22,Business,42285,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+806,50,Auto,20422,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+807,18,Auto,47468,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+808,35,Business,37371,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+809,49,Personal,10693,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+810,64,Business,38535,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+811,66,Personal,19818,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+812,28,Home,36238,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+813,38,Personal,35874,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+814,43,Personal,31715,Defaulted,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+815,42,Home,32605,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+816,39,Personal,39317,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+817,44,Business,36174,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+818,66,Personal,14956,Paid,Great customer support and low-interest rates.,0.8,Positive
+819,30,Home,43908,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+820,50,Business,15837,Paid,Great customer support and low-interest rates.,0.8,Positive
+821,51,Home,8716,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+822,58,Home,9481,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+823,52,Auto,29282,Paid,Great customer support and low-interest rates.,0.8,Positive
+824,18,Auto,11548,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+825,38,Home,42605,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+826,65,Home,12758,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+827,23,Home,48668,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+828,45,Auto,28177,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+829,34,Auto,29022,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+830,22,Personal,45761,Paid,Great customer support and low-interest rates.,0.8,Positive
+831,48,Personal,10542,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+832,22,Home,30476,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+833,55,Business,35784,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+834,20,Business,27740,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+835,40,Auto,29817,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+836,54,Auto,21052,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+837,54,Auto,40153,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+838,27,Home,5671,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+839,27,Business,5163,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+840,36,Personal,46424,Defaulted,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+841,34,Home,49002,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+842,38,Personal,9795,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+843,31,Personal,15634,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+844,26,Home,9798,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+845,63,Personal,27420,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+846,18,Business,34300,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+847,68,Personal,29345,Paid,Great customer support and low-interest rates.,0.8,Positive
+848,62,Business,15749,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+849,30,Business,43595,Paid,Great customer support and low-interest rates.,0.8,Positive
+850,21,Business,30121,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+851,18,Auto,42487,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+852,66,Personal,33411,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+853,57,Home,38361,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+854,49,Home,26223,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+855,51,Personal,12394,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+856,45,Auto,19056,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+857,48,Auto,33380,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+858,25,Business,31035,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+859,56,Personal,35620,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+860,43,Personal,24877,Paid,Great customer support and low-interest rates.,0.8,Positive
+861,51,Home,48404,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+862,20,Personal,35911,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+863,67,Auto,37784,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+864,29,Personal,8191,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+865,18,Home,38160,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+866,61,Business,30000,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+867,22,Home,44040,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+868,47,Home,8631,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+869,47,Business,11172,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+870,34,Home,47080,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+871,65,Home,28561,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+872,64,Personal,29817,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+873,40,Personal,25281,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+874,32,Business,33671,Defaulted,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+875,54,Personal,30364,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+876,38,Personal,46674,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+877,31,Home,32425,Defaulted,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+878,19,Auto,33602,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+879,28,Personal,28253,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+880,68,Auto,28472,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+881,56,Personal,13080,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+882,55,Personal,12099,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+883,51,Business,30431,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+884,55,Business,36186,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+885,67,Business,35111,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+886,51,Auto,44851,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+887,35,Home,27614,Paid,Great customer support and low-interest rates.,0.8,Positive
+888,47,Personal,31724,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+889,32,Personal,46991,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+890,44,Personal,9940,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+891,68,Auto,33758,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+892,51,Business,41224,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+893,69,Home,12788,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+894,55,Auto,33082,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+895,50,Business,29034,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+896,41,Auto,40479,Paid,Great customer support and low-interest rates.,0.8,Positive
+897,32,Home,16280,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+898,47,Business,23052,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+899,59,Auto,21531,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+900,68,Home,27804,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+901,34,Personal,33903,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+902,22,Home,49857,Defaulted,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+903,46,Personal,15142,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+904,21,Auto,14866,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+905,27,Business,9531,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+906,34,Business,43098,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+907,27,Auto,43278,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+908,34,Business,33138,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+909,37,Business,32065,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+910,41,Personal,34956,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+911,22,Auto,46732,Defaulted,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+912,51,Home,44261,Paid,Great customer support and low-interest rates.,0.8,Positive
+913,23,Personal,15759,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+914,19,Auto,10439,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+915,30,Personal,47533,Paid,Great customer support and low-interest rates.,0.8,Positive
+916,60,Home,33270,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+917,60,Home,18279,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+918,65,Auto,44279,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+919,28,Home,49251,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+920,68,Personal,28888,Paid,Great customer support and low-interest rates.,0.8,Positive
+921,64,Home,22630,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+922,40,Personal,40144,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+923,33,Personal,36182,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+924,48,Home,30538,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+925,28,Auto,16824,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+926,33,Business,37125,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+927,25,Home,11979,Paid,Great customer support and low-interest rates.,0.8,Positive
+928,21,Personal,31189,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+929,57,Personal,47600,Paid,Great customer support and low-interest rates.,0.8,Positive
+930,21,Home,17504,Paid,Great customer support and low-interest rates.,0.8,Positive
+931,42,Auto,25669,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+932,20,Auto,11910,Paid,Great customer support and low-interest rates.,0.8,Positive
+933,49,Personal,39964,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+934,20,Personal,25131,Paid,Great customer support and low-interest rates.,0.8,Positive
+935,44,Auto,30227,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+936,46,Business,10978,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+937,49,Home,26991,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+938,67,Personal,22153,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+939,68,Personal,38548,Paid,Great customer support and low-interest rates.,0.8,Positive
+940,36,Auto,47676,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+941,38,Home,44071,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+942,22,Auto,8983,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+943,35,Home,14503,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+944,45,Home,34921,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+945,59,Home,21905,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+946,39,Personal,28953,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+947,38,Business,31806,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+948,23,Auto,27168,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+949,18,Business,9583,Paid,Great customer support and low-interest rates.,0.8,Positive
+950,22,Auto,43714,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+951,58,Home,44896,Paid,Great customer support and low-interest rates.,0.8,Positive
+952,29,Personal,16889,Paid,Great customer support and low-interest rates.,0.8,Positive
+953,43,Business,32413,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+954,63,Personal,17275,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+955,51,Auto,7461,Defaulted,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+956,66,Personal,19291,Defaulted,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+957,31,Personal,16435,Paid,Great customer support and low-interest rates.,0.8,Positive
+958,43,Business,32935,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+959,62,Home,38453,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+960,44,Personal,23544,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+961,26,Home,17258,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+962,43,Auto,35841,Defaulted,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+963,64,Personal,15736,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+964,39,Business,42643,Paid,Great customer support and low-interest rates.,0.8,Positive
+965,64,Auto,48950,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+966,47,Auto,39964,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+967,60,Business,33044,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+968,65,Personal,44933,Paid,Great customer support and low-interest rates.,0.8,Positive
+969,34,Personal,20997,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+970,43,Auto,19215,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+971,53,Personal,38069,Paid,Great customer support and low-interest rates.,0.8,Positive
+972,18,Home,28911,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+973,25,Business,22030,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+974,66,Home,34334,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+975,52,Personal,19571,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+976,69,Auto,47719,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+977,32,Business,33927,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+978,64,Personal,25714,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+979,39,Personal,48541,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+980,31,Auto,28387,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+981,43,Auto,33444,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+982,45,Home,24921,Defaulted,Great customer support and low-interest rates.,0.8,Positive
+983,40,Business,18057,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+984,31,Business,29858,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+985,41,Auto,49638,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+986,19,Home,31062,Paid,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+987,62,Business,41850,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+988,43,Auto,25567,Paid,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+989,31,Personal,34739,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+990,68,Business,48285,Defaulted,"Unsatisfactory experience, I faced many issues with the application.",0.5,Positive
+991,24,Home,8754,Defaulted,The interest rates are high compared to other banks.,0.0175,Positive
+992,20,Home,32044,Defaulted,The service was excellent and the loan process was smooth and fast.,0.5333333333333333,Positive
+993,64,Home,6724,Paid,The interest rates are high compared to other banks.,0.0175,Positive
+994,40,Personal,6376,Paid,Great customer support and low-interest rates.,0.8,Positive
+995,63,Business,13706,Paid,Great customer support and low-interest rates.,0.8,Positive
+996,60,Business,13894,Paid,"Happy with the loan disbursal process, quick and easy.",0.5222222222222223,Positive
+997,64,Personal,23037,Paid,"Terrible experience, they rejected my loan without proper reason.",-0.5,Negative
+998,62,Business,23450,Paid,Great customer support and low-interest rates.,0.8,Positive
+999,35,Personal,21406,Paid,"Very friendly staff, but the process took too long.",0.21875000000000003,Positive
+1000,55,Personal,34725,Paid,The interest rates are high compared to other banks.,0.0175,Positive
