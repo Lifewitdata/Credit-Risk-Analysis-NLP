@@ -106,7 +106,8 @@ import matplotlib.pyplot as plt
 
 ### Visualizations
 <div align="center">
-<img src="/api/placeholder/800/400" alt="Default Rate Analysis">
+<img src="![image](https://github.com/user-attachments/assets/d6287172-2359-4c1a-b670-0130450af701)
+" alt="Default Rate Analysis">
 </div>
 
 
